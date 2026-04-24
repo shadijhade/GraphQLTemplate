@@ -1,0 +1,27 @@
+# Visual Studio & .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.sqlite
+*.db
+
+# Node.js & Angular
+node_modules/
+dist/
+.angular/
+npm-debug.log
+yarn-error.log
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Environment variables
+.env
+.env.local
