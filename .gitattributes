@@ -1,0 +1,3 @@
+# GitHub language stats: count the code (C# and TypeScript), not the styles and markup
+*.css linguist-detectable=false
+*.html linguist-detectable=false
